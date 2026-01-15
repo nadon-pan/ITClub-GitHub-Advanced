@@ -1,4 +1,4 @@
-# Git Workshop Exercises
+# ITClub: GitHub Advanced Exercises
 
 ## Description
 - Each exercise has a starting branch named: `exercise/<topic>-start`
