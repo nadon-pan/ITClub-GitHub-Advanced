@@ -1,2 +1,0 @@
-Welcome to the Git workshop repo.
-This file is intentionally simple.
