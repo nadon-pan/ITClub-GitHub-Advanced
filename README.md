@@ -1,4 +1,4 @@
-# ITClub: GitHub Advanced Exercises
+# testing pR
 
 ## Description
 - Each exercise has a starting branch named: `exercise/<topic>-start`
